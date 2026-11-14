@@ -5,15 +5,6 @@ A mini-project exploring an automatic turn-off charging system for rechargeable 
 Project overview
 The intended system monitors a battery during charging and disconnects the charging path when a preset full-charge threshold is reached. The project material describes a 555 timer IC, a relay-based switching stage, resistors, capacitors, diodes, LEDs and a potentiometer/variable resistor.
 
-Repository contents
-docs/ — project report and presentation.
-media/ — circuit screenshot and hardware demonstration video.
-costing/ — bill of materials and original cost sheet.
-simulation/ — location for Tinkercad/Proteus links, exported schematics and simulation notes.
-Simulation
-Tinkercad project Tinkercad project
-
-The screenshot in media/ is the supplied simulation capture.
-
+TinkerCad Simulation Link - https://www.tinkercad.com/things/bRtTxjnApzV-siddhant-mini-simu2?sharecode=WQzUo_QeFcF_bnU4Th5HCSo412eE2IFW-RmbQtkC4zI
 Hardware demonstration
 See media/hardware-demonstration.mp4.
